@@ -17,5 +17,14 @@ namespace Core.Movement
         {
             t.Translate(dir * moveSpeed);
         }
+
+        public static void Move3DTopDown(Transform t, float moveSpeed, Vector3 dir)
+        {
+            t.Translate(Vector3.forward * moveSpeed * dir.magnitude);
+            if(dir != Vector3.zero)
+            {
+                t.rotation = Quaternion.LookRotation(dir);
+            }
+        }
     }
 }

@@ -15,6 +15,6 @@ public class Character : MonoBehaviour
 
    public virtual void Move()
    {
-       Movement.Move(transform, moveSpeed, Movement.AxisDelta);
+       Movement.Move3DTopDown(transform, moveSpeed, Movement.AxisDelta);
    }
 }
