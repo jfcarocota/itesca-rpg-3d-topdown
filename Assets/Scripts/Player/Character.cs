@@ -8,7 +8,7 @@ public class Character : MonoBehaviour
     [SerializeField]
     protected float moveSpeed;
    
-   void Update()
+   protected void Update()
    {
        Move();
    }
