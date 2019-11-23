@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a9d2a23303af4048b112f9c56d27070, type: 3}
+  m_Name: RandomPlants
+  m_EditorClassIdentifier: 
+  TargetSize: 2048
+  Rows: 3
+  Padding: 5
+  DilationSteps: 0
+  Overdraw: 0
+  Seed: 0
+  Variations: 20
+  SizeVariation: 0.8
+  PositionVariation: 1
+  Textures:
+  - {fileID: 2800000, guid: abee6d3acf6ff644a9a78793eaeab731, type: 3}
+  - {fileID: 2800000, guid: 4d20632e75444c14caaba873aa5356f3, type: 3}
+  - {fileID: 2800000, guid: 539989a1132900f4fae23c661dab1a55, type: 3}
+  - {fileID: 2800000, guid: ed605630d096483438fd9fb6e43f1c61, type: 3}
+  - {fileID: 2800000, guid: efcb981a7cd6f894e9c99cab99be7a74, type: 3}
+  - {fileID: 2800000, guid: 645c01e2b079b1b49868618a4cc71c1e, type: 3}
+  - {fileID: 2800000, guid: 74333e430addbfe4a88331c6ce81423d, type: 3}
+  - {fileID: 2800000, guid: 971d69184aed7f24491880cd0b9f9109, type: 3}
+  - {fileID: 2800000, guid: 574d939cc3c1d5e47ad1f1d8a377a0dc, type: 3}
+  - {fileID: 2800000, guid: fc777610ab70a4644945d8cf246a8224, type: 3}
+  - {fileID: 2800000, guid: 29a35cd015e324440a5b991920722756, type: 3}
+  - {fileID: 2800000, guid: 09876fca08464d144ad353281769fd50, type: 3}
+  - {fileID: 2800000, guid: 7cf32c604536a3c4d9334afd89c4d9d6, type: 3}
+  - {fileID: 2800000, guid: 9f938fea6a22e434a800435d1740e473, type: 3}
+  - {fileID: 2800000, guid: c609338f41754be4ebbc1e9ed18490b4, type: 3}
+  - {fileID: 2800000, guid: 45d79cd1b558783458a1c3c26c6fc562, type: 3}
+  - {fileID: 2800000, guid: 81571224774ee6042998f9957f6cc2c4, type: 3}
+  - {fileID: 2800000, guid: 150ec9f2abd5ab845a5f76d34f9f8b61, type: 3}
+  - {fileID: 2800000, guid: d3efa47ebb01f80419b688ae79f36a47, type: 3}
+  - {fileID: 2800000, guid: dd5d0db7d8703084e96dd922fadfa452, type: 3}
+  TextureAtlas: {fileID: 2800000, guid: a95d028e67e751c429488f25ab96a44a, type: 3}

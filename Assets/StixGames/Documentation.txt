@@ -1,0 +1,7 @@
+You can either use the online documentation: http://stixgames.com/grassshader/documentation
+
+Or unpack the offline version: Documentation.zip
+Be aware that you shouldn't unpack it into your asset folder, as (at least older versions of Unity) will believe that the javascript files are Unity scripts.
+
+------------------------------------
+For more questions, feedback, or requests, contact us at: support@stixgames.com

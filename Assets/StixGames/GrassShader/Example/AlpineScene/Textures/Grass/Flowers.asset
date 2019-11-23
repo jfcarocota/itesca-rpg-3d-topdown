@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a9d2a23303af4048b112f9c56d27070, type: 3}
+  m_Name: Flowers
+  m_EditorClassIdentifier: 
+  TargetSize: 2048
+  Rows: 3
+  Padding: 5
+  DilationSteps: 0
+  Overdraw: 0
+  Seed: 0
+  Variations: 20
+  SizeVariation: 0.8
+  PositionVariation: 1
+  Textures:
+  - {fileID: 2800000, guid: 8eef95462b92cda4ab1d726d2ff6cb77, type: 3}
+  - {fileID: 2800000, guid: 1e5ab026cb3d37348901be61968d93c2, type: 3}
+  - {fileID: 2800000, guid: 8c8c9f2dd5d3e464e9b7122bd25e1c4f, type: 3}
+  - {fileID: 2800000, guid: 64e3618690589fc4e9b66b28e0823c32, type: 3}
+  - {fileID: 2800000, guid: 4c3c2d6d85a2c8245b01f3fbed6f88ed, type: 3}
+  - {fileID: 2800000, guid: 12a3dc3783455bd4dba23917916d463d, type: 3}
+  - {fileID: 2800000, guid: 7e79fe49fce4753429ee4af986fc4939, type: 3}
+  - {fileID: 2800000, guid: fb2ceee92ec75b94d911a268fd197a3e, type: 3}
+  - {fileID: 2800000, guid: c687d92190d4f7f498a7c1e69dab110f, type: 3}
+  - {fileID: 2800000, guid: 141ebb63a1cdb9442bc675241fcf4abd, type: 3}
+  - {fileID: 2800000, guid: 0df0dd616c0ebe744b6023787049b8ca, type: 3}
+  - {fileID: 2800000, guid: 979b6ab521731f248a130069f024784e, type: 3}
+  - {fileID: 2800000, guid: 10ecaa201e334fe48b575cecb31c6dd4, type: 3}
+  - {fileID: 2800000, guid: cfe85790109a47946a2cdace468c9a25, type: 3}
+  - {fileID: 2800000, guid: 7c6ff0090767f754a98146e91198a773, type: 3}
+  TextureAtlas: {fileID: 2800000, guid: 151ba325d21f1584cac3e27b451eeede, type: 3}

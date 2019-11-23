@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 247ca490ec95cbb4784483904e1bbe88
+labels:
+- Vegetation
+- Shader
+- Grass
+- DirectX11
+- GrassShader
+- StixGames
+timeCreated: 1438192605
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

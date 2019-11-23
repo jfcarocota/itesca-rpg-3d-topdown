@@ -1,0 +1,4 @@
+#ifndef GRASS_LIGHTING_URP
+#define GRASS_LIGHTING_URP
+
+#endif
