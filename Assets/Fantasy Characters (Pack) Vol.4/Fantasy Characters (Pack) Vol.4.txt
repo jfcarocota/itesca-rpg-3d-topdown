@@ -1,0 +1,167 @@
+Pack contains 10 characters,
+The characters are perfectly suited to android games. 
+Optimized mesh, texture (512-512),
+Animations are on the same timeline
+
+
+1.Character Octopus.Contains 10 animations
+
+-Idle-(1-100)
+-Walk-(101-130)
+-Swim-(131-180)
+-Jamp-(181-235)
+-Attack(1)-(236-295)
+-Attack(2)-(296-335)
+-Attack(3)-(336-365)
+-Attack(magic)-(336-400)
+-Get hit-(401-420)
+-Dead-(421-475)
+
+Info: 
+-Model has 1,664 tris
+-Textures: Diffuse (all 512-512 size) 
+
+2.Character Ghost.Contains 8 animations
+
+-Idle-(1-60)
+-Fly-(61-90)
+-Attack(1)-(91-140)
+-Attack(2)-(141-215)
+-Attack(3)-(216-270)
+-Attack(magic)-(271-320)
+-Get hit-(321-345)
+-Dead-(346-390)
+
+Info: 
+-Model has 1,114 tris
+-Textures: Diffuse (all 512-512 size) 
+
+3.Character Hippo.Contains 10 animations
+
+-Idle-(1-180)
+-Jump-(181-225)
+-Attack(1)-(226-285)
+-Attack(2)-(286-320)
+-Attack(3)-(321-355)
+-Attack(magic)-(356-382)
+-Get hit-(383-400)
+-Dead-(401-435)
+-Walk-(436-466)
+-Run-(467-501)
+
+Info: 
+-Model has 1,746 tris
+-Textures: Diffuse (all 512-512 size) 
+
+4.Character Alien.Contains 10 animations
+
+-Idle-(1-180)
+-Jump-(181-220)
+-Attack(1)-(221-300)
+-Attack(2)-(301-350)
+-Attack(3)-(351-420)
+-Attack(magic)-(421-450)
+-Get hit-(451-470)
+-Dead-(471-500)
+-Walk-(501-530)
+-Run-(531-554)
+
+Info: 
+-Model has 1,794 tris
+-Textures: Diffuse (all 512-512 size)
+
+5.Character Golem.Contains 10 animations
+
+-Idle-(1-60)
+-Jump-(61-100)
+-Attack(1)-(101-150)
+-Attack(2)-(151-215)
+-Attack(3)-(216-250)
+-Attack(4)-(251-285)
+-Get hit-(286-300)
+-Dead-(301-330)
+-Walk-(331-360)
+-Run-(361-385)
+
+Info: 
+-Model has 1,708 tris
+-Textures: Diffuse (all 512-512 size) 
+
+6.Character Eared Crank.Contains 10 animations
+
+-Idle-(1-60)
+-Jump-(61-100)
+-Attack(1)-(101-145)
+-Attack(2)-(146-190)
+-Attack(3)-(191-235)
+-Attack(4)-(236-270)
+-Get hit-(271-290)
+-Dead-(291-315)
+-Walk-(316-346)
+-Run-(347-370)
+
+Info: 
+-Model has 1,644 tris
+-Textures: Diffuse (all 512-512 size) 
+
+7.Character Crab.Contains 10 animations
+
+-Idle-(1-60)
+-Jump-(61-100)
+-Attack(1)-(101-125)
+-Attack(2)-(126-150)
+-Attack(3)-(151-185)
+-Get hit-(186-200)
+-Dead-(201-220)
+-Walk-(221-240)
+
+
+Info: 
+-Model has 1,109 tris
+-Textures: Diffuse (all 512-512 size)
+
+8.Character Fat.Contains 10 animations
+
+-Idle-(1-60)
+-Jump-(61-105)
+-Attack(1)-(106-140)
+-Attack(2)-(141-190)
+-Attack(3)-(191-225)
+-Attack(4)-(236-270)
+-Get hit-(226-245)
+-Dead-(246-290)
+-Walk-(291-321)
+-Run-(322-341)
+
+Info: 
+-Model has 2,179 tris
+-Textures: Diffuse (all 512-512 size) 
+
+9.Character Mechanical Demon.Contains 7 animations
+
+-Idle-(1-60)
+-Attack(1)-(61-100)
+-Attack(2)-(101-150)
+-Attack(3)-(151-210)
+-Get hit-(211-230)
+-Dead-(231-275)
+-Fly-(276-300)
+
+Info: 
+-Model has 1,191 tris
+-Textures: Diffuse (all 512-512 size)
+
+10.Character Ant.Contains 8 animations
+
+-Idle-(1-60)
+-Jump-(61-110)
+-Attack(1)-(111-150)
+-Attack(2)-(151-190)
+-Attack(3)-(191-220)
+-Get hit-(221-240)
+-Dead-(241-270
+-Pun-(271-295)
+
+Info: 
+-Model has 1,855 tris
+-Textures: Diffuse (all 512-512 size) 

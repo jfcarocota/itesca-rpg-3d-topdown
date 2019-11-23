@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: 1027220f50ec3d64b89aebbe8432b3ee
+timeCreated: 1452500345
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: CATRigHub001
+    100002: CATRigHub002
+    100004: CATRigHub002Bone001
+    100006: CATRigHub002Bone001Bone001
+    100008: CATRigHub002Bone001Bone002
+    100010: CATRigHub002Bone001Bone003
+    100012: CATRigHub002Bone001Bone004
+    100014: CATRigLArm1
+    100016: CATRigLArm2
+    100018: CATRigLArmCollarbone
+    100020: CATRigLArmDigit11
+    100022: CATRigLArmDigit21
+    100024: CATRigLArmDigit31
+    100026: CATRigLArmPalm
+    100028: CATRigLLeg1
+    100030: CATRigLLeg2
+    100032: CATRigLLegAnkle
+    100034: CATRigLLegDigit11
+    100036: CATRigLLegPlatform
+    100038: CATRigRArm1
+    100040: CATRigRArm2
+    100042: CATRigRArmCollarbone
+    100044: CATRigRArmDigit11
+    100046: CATRigRArmDigit21
+    100048: CATRigRArmDigit31
+    100050: CATRigRArmPalm
+    100052: CATRigRLeg1
+    100054: CATRigRLeg2
+    100056: CATRigRLegAnkle
+    100058: CATRigRLegDigit11
+    100060: CATRigRLegPlatform
+    100062: CATRigSpine
+    100064: Character001
+    100066: //RootNode
+    100068: Eared_Crank_Mesh
+    400000: CATRigHub001
+    400002: CATRigHub002
+    400004: CATRigHub002Bone001
+    400006: CATRigHub002Bone001Bone001
+    400008: CATRigHub002Bone001Bone002
+    400010: CATRigHub002Bone001Bone003
+    400012: CATRigHub002Bone001Bone004
+    400014: CATRigLArm1
+    400016: CATRigLArm2
+    400018: CATRigLArmCollarbone
+    400020: CATRigLArmDigit11
+    400022: CATRigLArmDigit21
+    400024: CATRigLArmDigit31
+    400026: CATRigLArmPalm
+    400028: CATRigLLeg1
+    400030: CATRigLLeg2
+    400032: CATRigLLegAnkle
+    400034: CATRigLLegDigit11
+    400036: CATRigLLegPlatform
+    400038: CATRigRArm1
+    400040: CATRigRArm2
+    400042: CATRigRArmCollarbone
+    400044: CATRigRArmDigit11
+    400046: CATRigRArmDigit21
+    400048: CATRigRArmDigit31
+    400050: CATRigRArmPalm
+    400052: CATRigRLeg1
+    400054: CATRigRLeg2
+    400056: CATRigRLegAnkle
+    400058: CATRigRLegDigit11
+    400060: CATRigRLegPlatform
+    400062: CATRigSpine
+    400064: Character001
+    400066: //RootNode
+    400068: Eared_Crank_Mesh
+    2300000: Character001
+    3300000: Character001
+    4300000: Eared_Crank_Mesh
+    4300002: Character001
+    9500000: //RootNode
+    13700000: Eared_Crank_Mesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,235 @@
+fileFormatVersion: 2
+guid: 73985ee5d286676498fa47546bcb16ed
+ModelImporter:
+  serializedVersion: 26
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: CATRigHub001
+  - first:
+      1: 100002
+    second: CATRigHub001Bone001
+  - first:
+      1: 100004
+    second: CATRigHub001Bone001Bone001
+  - first:
+      1: 100006
+    second: CATRigHub001Bone001Bone001 1
+  - first:
+      1: 100008
+    second: CATRigHub001Bone001Bone001Bone001
+  - first:
+      1: 100010
+    second: CATRigHub001Bone001Bone001Bone001 1
+  - first:
+      1: 100012
+    second: CATRigHub001Bone002
+  - first:
+      1: 100014
+    second: CATRigLLeg1
+  - first:
+      1: 100016
+    second: CATRigLLeg2
+  - first:
+      1: 100018
+    second: CATRigLLegAnkle
+  - first:
+      1: 100020
+    second: CATRigLLegPlatform
+  - first:
+      1: 100022
+    second: CATRigRLeg1
+  - first:
+      1: 100024
+    second: CATRigRLeg2
+  - first:
+      1: 100026
+    second: CATRigRLegAnkle
+  - first:
+      1: 100028
+    second: CATRigRLegPlatform
+  - first:
+      1: 100030
+    second: Character001
+  - first:
+      1: 100032
+    second: //RootNode
+  - first:
+      1: 100034
+    second: Crab_Mesh
+  - first:
+      4: 400000
+    second: CATRigHub001
+  - first:
+      4: 400002
+    second: CATRigHub001Bone001
+  - first:
+      4: 400004
+    second: CATRigHub001Bone001Bone001
+  - first:
+      4: 400006
+    second: CATRigHub001Bone001Bone001 1
+  - first:
+      4: 400008
+    second: CATRigHub001Bone001Bone001Bone001
+  - first:
+      4: 400010
+    second: CATRigHub001Bone001Bone001Bone001 1
+  - first:
+      4: 400012
+    second: CATRigHub001Bone002
+  - first:
+      4: 400014
+    second: CATRigLLeg1
+  - first:
+      4: 400016
+    second: CATRigLLeg2
+  - first:
+      4: 400018
+    second: CATRigLLegAnkle
+  - first:
+      4: 400020
+    second: CATRigLLegPlatform
+  - first:
+      4: 400022
+    second: CATRigRLeg1
+  - first:
+      4: 400024
+    second: CATRigRLeg2
+  - first:
+      4: 400026
+    second: CATRigRLegAnkle
+  - first:
+      4: 400028
+    second: CATRigRLegPlatform
+  - first:
+      4: 400030
+    second: Character001
+  - first:
+      4: 400032
+    second: //RootNode
+  - first:
+      4: 400034
+    second: Crab_Mesh
+  - first:
+      23: 2300000
+    second: Character001
+  - first:
+      33: 3300000
+    second: Character001
+  - first:
+      43: 4300000
+    second: Crab_Mesh
+  - first:
+      43: 4300002
+    second: Character001
+  - first:
+      74: 7400000
+    second: Take 001
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: Crab_Mesh
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Crab_Diffuse
+    second: {fileID: 2100000, guid: 8a1e2845a3e11a3458c3c8daf386c4a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 24e412829ad034d489654dac4231ae90, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips:
+  - 9ab4caa344b7254408b760880b63d33d
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

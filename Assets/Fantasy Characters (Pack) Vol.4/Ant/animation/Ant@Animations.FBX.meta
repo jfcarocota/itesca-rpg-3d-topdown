@@ -1,0 +1,145 @@
+fileFormatVersion: 2
+guid: 411f0d8eb547dce4aac3c0adcd304a0f
+timeCreated: 1453458249
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Ant_body
+    100004: Ant_eyes001
+    100006: CATRigHub002
+    100008: CATRigHub003
+    100010: CATRigHub003Bone001
+    100012: CATRigHub003Bone001Bone001
+    100014: CATRigHub003Bone001Bone002
+    100016: CATRigHub003Bone001Bone003
+    100018: CATRigHub003Bone001Bone004
+    100020: CATRigHub003Bone002
+    100022: CATRigHub003Bone002Bone001
+    100024: CATRigHub003Bone002Bone001 1
+    100026: CATRigHub003Bone003
+    100028: CATRigLLeg1
+    100030: CATRigLLeg1 1
+    100032: CATRigLLeg2
+    100034: CATRigLLeg2 1
+    100036: CATRigLLegAnkle
+    100038: CATRigLLegAnkle 1
+    100040: CATRigLLegPlatform
+    100042: CATRigLLegPlatform 1
+    100044: CATRigRLeg1
+    100046: CATRigRLeg1 1
+    100048: CATRigRLeg2
+    100050: CATRigRLeg2 1
+    100052: CATRigRLegAnkle
+    100054: CATRigRLegAnkle 1
+    100056: CATRigRLegPlatform
+    100058: CATRigRLegPlatform 1
+    100060: CATRigSpine
+    100062: Character001
+    400000: //RootNode
+    400002: Ant_body
+    400004: Ant_eyes001
+    400006: CATRigHub002
+    400008: CATRigHub003
+    400010: CATRigHub003Bone001
+    400012: CATRigHub003Bone001Bone001
+    400014: CATRigHub003Bone001Bone002
+    400016: CATRigHub003Bone001Bone003
+    400018: CATRigHub003Bone001Bone004
+    400020: CATRigHub003Bone002
+    400022: CATRigHub003Bone002Bone001
+    400024: CATRigHub003Bone002Bone001 1
+    400026: CATRigHub003Bone003
+    400028: CATRigLLeg1
+    400030: CATRigLLeg1 1
+    400032: CATRigLLeg2
+    400034: CATRigLLeg2 1
+    400036: CATRigLLegAnkle
+    400038: CATRigLLegAnkle 1
+    400040: CATRigLLegPlatform
+    400042: CATRigLLegPlatform 1
+    400044: CATRigRLeg1
+    400046: CATRigRLeg1 1
+    400048: CATRigRLeg2
+    400050: CATRigRLeg2 1
+    400052: CATRigRLegAnkle
+    400054: CATRigRLegAnkle 1
+    400056: CATRigRLegPlatform
+    400058: CATRigRLegPlatform 1
+    400060: CATRigSpine
+    400062: Character001
+    2300000: Ant_eyes001
+    2300002: Character001
+    3300000: Ant_eyes001
+    3300002: Character001
+    4300000: Ant_body
+    4300002: Character001
+    4300004: Ant_eyes001
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Ant_body
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
